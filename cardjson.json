@@ -1,0 +1,16 @@
+$(document).ready(function (){
+    
+    $("#card_kylie").flip({
+        trigger: 'hover'
+    });
+
+    $("#card").flip({
+        trigger: 'hover'
+    });
+
+    $("#card_mac").flip({
+        trigger: 'hover'
+    });
+
+
+})
